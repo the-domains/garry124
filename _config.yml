@@ -1,0 +1,23 @@
+name: garry124
+favicon: null
+layout_spectrum: 0.1240645102225244
+typography_spectrum: 0.8885051985271275
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.6399279439356178
+  lightness: 0.9471716736443341
+  saturation: 0.7917585703544319
+  rhythmicContrast: 0.08057211921550333
+purpose: []
